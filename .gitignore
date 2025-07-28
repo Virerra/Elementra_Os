@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+*.bin
+*.iso
+*.o
+
+# OS/Editor generated files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
